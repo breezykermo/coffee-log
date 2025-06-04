@@ -1,9 +1,66 @@
 /* Custom styles. */
 .c-grid {
-  display: flex;
-  max-height: 50vh;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5px;
+  width: 100%;
+  padding-bottom: 2em;
 }
 
+.c-img {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 1 / 1; /* Optional: maintains square images */
+}
+
+.c-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 0.3s ease;
+}
+
+.caption {
+  font-size: 0.8em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  opacity: 0;
+  box-sizing: border-box; /* This ensures padding is included in width/height */
+  padding: 15px;
+  transition: opacity 0.3s ease, background-color 0.3s ease;
+  text-align: center;
+}
+
+.c-img:hover img {
+  opacity: 0.8;
+}
+
+.c-img:hover .caption {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for better text visibility */
+}
+
+/* Mobile styles */
+@media screen and (max-width: 768px) {
+  .c-grid {
+    grid-template-columns: 1fr; /* Single column on mobile */
+    gap: 15px; /* Slightly reduced gap for mobile */
+  }
+
+  .caption {
+    font-size: 1em;
+  }
+}
 
 /* Adapted from pandoc standalone styles. */
 html {
