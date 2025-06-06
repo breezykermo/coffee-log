@@ -12,7 +12,7 @@
   // See https://github.com/typst/typst/issues/2123
   //
   #lib.img_hov("./img/25-05-12-mok-peru.jpg", [ 
-    Silky is right; there is something very delicate and memorable about this roast. Tried first as a chemex (300ml/20g), I dialled the grind in to almost perfectly 3 minutes 30 seconds on the first go.
+    Silky is right; there is something very delicate and memorable about this roast. Best in a pourover via chemex (300ml/20g), with a 3 min 40 sec extraction. The bright wash of green apple is what greets (true to the tasting note), and the caramel and walnut is the bidding goodbye as is slithers down the throat.
   ]) 
   #lib.img_hov("./img/25-04-25-brisa-ethiopia.jpg", [
     A bakery and roastery in Bologna. The bread is very good, and this coffee is decent-- which is more than one can say about many cafes in Italy.
