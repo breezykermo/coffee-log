@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Coffee Log</title>
+    <link>https://coffee.example.com</link>
+    <description>A personal coffee tasting log with notes and images.</description>
+    <lastBuildDate>Sat, 14 Jun 2025 11:38:15 +0000</lastBuildDate>
+    <item>
+      <title>25 05 08 Hard Lines</title>
+      <link>https://coffee.example.com#25-05-08-hard-lines</link>
+      <guid>https://coffee.example.com#25-05-08-hard-lines</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <description>Wholesome, not acidic, this roast tastes like a basic foundation from which to build. Two external opinions were: "woody" and "Umm… grapefruit"; which together summarize the basic feeling at stake that this coffee is something of the earth. My take would be that a cup of this is like a painting of a landscape, a sensuous rendering of a backdrop against which specific memories can find their way to the surface. If the sips start as snowfall on the teeth (sweet with a nutty inner), by the end they have become a beachy plain with scattered driftwood.</description>
+      <enclosure url="https://coffee.example.com/img/25-05-08-hard-lines.jpg" length="781051" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 05 12 Mok Peru</title>
+      <link>https://coffee.example.com#25-05-12-mok-peru</link>
+      <guid>https://coffee.example.com#25-05-12-mok-peru</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <description>Silky is right; there is something very delicate and memorable about this roast. Best in a pourover via chemex (300ml/20g), with a 3 min 40 sec extraction. The bright wash of green apple is what greets (true to the tasting note), and the caramel and walnut is the bidding goodbye as is slithers down the throat.</description>
+      <enclosure url="https://coffee.example.com/img/25-05-12-mok-peru.jpg" length="542867" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 04 25 Brisa Ethiopia</title>
+      <link>https://coffee.example.com#25-04-25-brisa-ethiopia</link>
+      <guid>https://coffee.example.com#25-04-25-brisa-ethiopia</guid>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <description>A bakery and roastery in Bologna. The bread is very good, and this coffee is decent– which is more than one can say about many cafes in Italy.</description>
+      <enclosure url="https://coffee.example.com/img/25-04-25-brisa-ethiopia.jpg" length="846905" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 04 07 Stow Ethiopia</title>
+      <link>https://coffee.example.com#25-04-07-stow-ethiopia</link>
+      <guid>https://coffee.example.com#25-04-07-stow-ethiopia</guid>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <description>The memory is not super fresh in my mind, but I remember the black tea / honey notes being pronounced.</description>
+      <enclosure url="https://coffee.example.com/img/25-04-07-stow-ethiopia.jpg" length="636002" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 03 19 Standout Colombia</title>
+      <link>https://coffee.example.com#25-03-19-standout-colombia</link>
+      <guid>https://coffee.example.com#25-03-19-standout-colombia</guid>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <description>I don't recall!</description>
+      <enclosure url="https://coffee.example.com/img/25-03-19-standout-colombia.jpg" length="459342" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 03 18 Standout Colombia</title>
+      <link>https://coffee.example.com#25-03-18-standout-colombia</link>
+      <guid>https://coffee.example.com#25-03-18-standout-colombia</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <description>I don't recall!</description>
+      <enclosure url="https://coffee.example.com/img/25-03-18-standout-colombia.jpg" length="486944" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 03 17 Standout Colombia</title>
+      <link>https://coffee.example.com#25-03-17-standout-colombia</link>
+      <guid>https://coffee.example.com#25-03-17-standout-colombia</guid>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <description>I don't recall!</description>
+      <enclosure url="https://coffee.example.com/img/25-03-17-standout-colombia.jpg" length="559581" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 02 11 Stow Colombia</title>
+      <link>https://coffee.example.com#25-02-11-stow-colombia</link>
+      <guid>https://coffee.example.com#25-02-11-stow-colombia</guid>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <description>I had a very good decaf about a year ago from Stow, and so decided to try this one. It wasn't quite as good, but still very enjoyable.</description>
+      <enclosure url="https://coffee.example.com/img/25-02-11-stow-colombia.jpg" length="655339" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 01 20 Standout Ethiopia</title>
+      <link>https://coffee.example.com#25-01-20-standout-ethiopia</link>
+      <guid>https://coffee.example.com#25-01-20-standout-ethiopia</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <description>I don't recall!</description>
+      <enclosure url="https://coffee.example.com/img/25-01-20-standout-ethiopia.jpg" length="526820" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>25 01 20 Standout Colombia</title>
+      <link>https://coffee.example.com#25-01-20-standout-colombia</link>
+      <guid>https://coffee.example.com#25-01-20-standout-colombia</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <description>I don't recall!</description>
+      <enclosure url="https://coffee.example.com/img/25-01-20-standout-colombia.jpg" length="509835" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

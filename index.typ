@@ -5,6 +5,8 @@
   My coffee log below. Hover over an image to see the tasting notes.
 
   The most recent beans that I've tried appear first.
+
+  To follow along when new beans are tasted, subscribe to the #link("./feed.xml")[RSS feed].
 ])
 
 #lib.div("c-grid", [
@@ -12,6 +14,9 @@
   // See https://github.com/typst/typst/issues/2123
   //
   //
+  #lib.img_hov("./img/25-05-05-alchemiste-ethiopia.jpeg", [ 
+    A round and very gentle feeling on the nose, but with a bite lurking a few seconds later. I over-extracted the first pourover, I think, as there is a bit of a bitter fizz after the inital burst of fruitiness. (The beans were roasted a little over a month ago, but they may need to sit a bit before getting really good.) It's certainly best to let the coffee cool.
+  ]) 
   #lib.img_hov("./img/25-05-08-hard-lines.jpg", [ 
     Wholesome, not acidic, this roast tastes like a basic foundation from which to build. Two external opinions were: "woody" and "Umm... grapefruit"; which together summarize the basic feeling at stake that this coffee is something of the earth. My take would be that a cup of this is like a painting of a landscape, a sensuous rendering of a backdrop against which specific memories can find their way to the surface. If the sips start as snowfall on the teeth (sweet with a nutty inner), by the end they have become a beachy plain with scattered driftwood.
   ]) 
