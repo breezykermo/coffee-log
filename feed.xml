@@ -4,7 +4,15 @@
     <title>Coffee Log</title>
     <link>https://coffee.example.com</link>
     <description>A personal coffee tasting log with notes and images.</description>
-    <lastBuildDate>Sat, 14 Jun 2025 11:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 11:43:50 +0000</lastBuildDate>
+    <item>
+      <title>25 05 05 Alchemiste Ethiopia</title>
+      <link>https://coffee.example.com#25-05-05-alchemiste-ethiopia</link>
+      <guid>https://coffee.example.com#25-05-05-alchemiste-ethiopia</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <description>A round and very gentle feeling on the nose, but with a bite lurking a few seconds later. I over-extracted the first pourover, I think, as there is a bit of a bitter fizz after the inital burst of fruitiness. (The beans were roasted a little over a month ago, but they may need to sit a bit before getting really good.) It's certainly best to let the coffee cool.</description>
+      <enclosure url="https://coffee.example.com/img/25-05-05-alchemiste-ethiopia.jpeg" length="70611" type="image/jpeg"/>
+    </item>
     <item>
       <title>25 05 08 Hard Lines</title>
       <link>https://coffee.example.com#25-05-08-hard-lines</link>
