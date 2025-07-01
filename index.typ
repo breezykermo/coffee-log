@@ -10,10 +10,6 @@
 ])
 
 #lib.div("c-grid", [
-  // No directory walking yet.
-  // See https://github.com/typst/typst/issues/2123
-  //
-  //
   #lib.img_hov("./img/25-05-05-alchemiste-ethiopia.jpeg", [ 
     A round and very gentle feeling on the nose, but with a bite lurking a few seconds later. I over-extracted the first pourover, I think, as there is a bit of a bitter fizz after the inital burst of fruitiness. (The beans were roasted a little over a month ago, but they may need to sit a bit before getting really good.) It's certainly best to let the coffee cool.
   ]) 
