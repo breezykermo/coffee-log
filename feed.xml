@@ -4,7 +4,15 @@
     <title>Coffee Log</title>
     <link>https://coffee.example.com</link>
     <description>A personal coffee tasting log with notes and images.</description>
-    <lastBuildDate>Sat, 14 Jun 2025 11:43:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 09:51:45 +0000</lastBuildDate>
+    <item>
+      <title>25 06 11 Garagecoffee Ethiopia</title>
+      <link>https://coffee.example.com#25-06-11-garagecoffee-ethiopia</link>
+      <guid>https://coffee.example.com#25-06-11-garagecoffee-ethiopia</guid>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <description>The initial whiff is evocative of a fruit bowl: sweet but rotund, with a smorgasbord of related flavours. Once it gets down the gullet, the same experience continues. This bean makes a wholesome brew that can be consumed without gumption or irritation. In a word, this is an everyday kind of driver, 'clean and sweet', that gets the body going as coffee should.</description>
+      <enclosure url="https://coffee.example.com/img/25-06-11-garagecoffee-ethiopia.jpg" length="895365" type="image/jpeg"/>
+    </item>
     <item>
       <title>25 05 05 Alchemiste Ethiopia</title>
       <link>https://coffee.example.com#25-05-05-alchemiste-ethiopia</link>
