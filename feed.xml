@@ -4,7 +4,15 @@
     <title>Coffee Log</title>
     <link>https://coffee.example.com</link>
     <description>A personal coffee tasting log with notes and images.</description>
-    <lastBuildDate>Sun, 06 Jul 2025 09:51:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 20:11:43 +0000</lastBuildDate>
+    <item>
+      <title>25 08 20 Grey Roasting Ethiopia</title>
+      <link>https://coffee.example.com#25-08-20-grey-roasting-ethiopia</link>
+      <guid>https://coffee.example.com#25-08-20-grey-roasting-ethiopia</guid>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Grey roasting always delivers. After serving a fruity and piquant roast at our wedding earlier in the month, it was a pleasure to try this high quality light roast at EOS Coffee in Queen Street, Auckland. Grape is the main memory, and the coffee left me delightfully buoyed, its drinking momentarily taking me on a cruise in the harbour on a still day.</description>
+      <enclosure url="https://coffee.example.com/img/25-08-20-grey-roasting-ethiopia.jpeg" length="80961" type="image/jpeg"/>
+    </item>
     <item>
       <title>25 06 11 Garagecoffee Ethiopia</title>
       <link>https://coffee.example.com#25-06-11-garagecoffee-ethiopia</link>
