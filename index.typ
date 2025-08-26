@@ -10,6 +10,9 @@
 ])
 
 #lib.div("c-grid", [
+  #lib.img_hov("./img/25-08-20-grey-roasting-ethiopia.jpeg", [
+    Grey roasting always delivers. After serving a fruity and piquant roast at our wedding earlier in the month, it was a pleasure to try this high quality light roast at EOS Coffee in Queen Street, Auckland. Grape is the main memory, and the coffee left me delightfully buoyed, its drinking momentarily taking me on a cruise in the harbour on a still day. 
+  ])
   #lib.img_hov("./img/25-06-11-garagecoffee-ethiopia.jpg", [ 
     The initial whiff is evocative of a fruit bowl: sweet but rotund, with a smorgasbord of related flavours. Once it gets down the gullet, the same experience continues. This bean makes a wholesome brew that can be consumed without gumption or irritation. In a word, this is an everyday kind of driver, 'clean and sweet', that gets the body going as coffee should.
   ])  
